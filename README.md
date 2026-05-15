@@ -1,9 +1,9 @@
-# Olá, eu sou o Vinicius 👋
+# Opa, eu sou o Vinicius 👋
 
 💻 Analista de Suporte em TI  
 ☁️ Estudando Cloud Computing (Azure & AWS)  
 🐍 Python | Redes | Infraestrutura  
-🚀 Em evolução para Cloud & DevOps
+🚀 Em evolução para Cloud & Ciber
 
 ## Tecnologias
 - Python
@@ -12,8 +12,12 @@
 - Azure
 - AWS
 - Redes
+- Microsoft 365
+- Sharepoint
+- Infraestrutura
 
 ## Objetivos
-- Evoluir para Cloud/DevOps
+- Evoluir para Cloud
+- Evoluir em Redes/Ciber
 - Criar projetos de automação
 - Aprimorar infraestrutura e cloud computing
