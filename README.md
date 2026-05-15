@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Vinicius 👋
 
-<!--
-**ViniciusBatistella17/ViniciusBatistella17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Suporte em TI  
+☁️ Estudando Cloud Computing (Azure & AWS)  
+🐍 Python | Redes | Infraestrutura  
+🚀 Em evolução para Cloud & DevOps
 
-Here are some ideas to get you started:
+## Tecnologias
+- Python
+- Git/GitHub
+- HTML/CSS
+- Azure
+- AWS
+- Redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+- Evoluir para Cloud/DevOps
+- Criar projetos de automação
+- Aprimorar infraestrutura e cloud computing
