@@ -75,7 +75,7 @@
 
 Projeto desenvolvido para a **peixaria do meu pai**, colocando em prática conhecimentos de tecnologia e programação para resolver uma necessidade real.
 
-**Status:** `EM DESENVOLVIMENTO`
+**Status:** `Concluido`
 
 ---
 
@@ -144,8 +144,6 @@ Coleção de exercícios desenvolvidos para aprimorar minha **lógica de program
 
 <div align="center">
 
-### 🎮 CONTINUE TREINANDO. CONTINUE EVOLUINDO. 🚀
-
-⭐ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
 
 </div>
