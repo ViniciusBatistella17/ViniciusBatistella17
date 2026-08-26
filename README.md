@@ -165,7 +165,7 @@ Coleção de exercícios desenvolvidos para aprimorar minha
 
 <br><br>
 
-<img src="./assets/final.gif?v=2" width="180">
+<img src="./assets/final2.gif?v=2" width="180">
 
 Obrigado por visitar meu perfil!
 
