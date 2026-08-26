@@ -2,12 +2,18 @@
 
 # 🔴⚪ POKÉDEX #001 — VINICIUS
 
-### Opa, eu sou o Vinicius!
+<img src="https://media.tenor.com/7Y8QZJf3QJAAAAAi/greninja-pokemon.gif" width="180">
+
+### 👋 Olá, eu sou o Vinicius!
 
 💻 **Analista de Suporte em TI**
 ☁️ **Cloud & Infraestrutura**
 🐍 **Python & Automação**
 🎓 **Sistemas da Informação**
+
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-batistella/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -19,7 +25,7 @@
 >
 > Um Trainer de tecnologia especializado em suporte e infraestrutura, atualmente treinando suas habilidades em **Cloud Computing, Python e Inteligência Artificial**.
 >
-> Com objetivo em evoluir de **Suporte de TI** para **Cloud & Programação**, enfrentando novos desafios e transformando problemas em soluções.
+> Meu objetivo é evoluir de **Suporte de TI** para **Cloud & Programação**, enfrentando novos desafios e transformando problemas em soluções.
 
 ---
 
@@ -71,19 +77,36 @@
 
 ## ⚔️ PROJETOS
 
-### 🐟 Projeto Peixaria
+<div align="center">
 
-Projeto desenvolvido para a **peixaria do meu pai**, colocando em prática conhecimentos de tecnologia e programação para resolver uma necessidade real.
+### 🐟 PROJETO PEIXARIA
 
-**Status:** `Concluido`
+Projeto desenvolvido para a peixaria do meu pai, colocando tecnologia e programação em prática para resolver uma necessidade real.
+
+🟢 **STATUS: CONCLUÍDO**
+
+<a href="https://github.com/ViniciusBatistella17/peixaria_projeto">
+  <img src="https://img.shields.io/badge/🔎%20VER%20PROJETO-000000?style=for-the-badge">
+</a>
+
+</div>
 
 ---
 
-### 🧠 Beecrowd — Python
+<div align="center">
 
-Coleção de exercícios desenvolvidos para aprimorar minha **lógica de programação e resolução de problemas utilizando Python**.
+### 🧠 BEECROWD — PYTHON
 
-**Status:** `EM TREINAMENTO`
+Coleção de exercícios desenvolvidos para aprimorar minha
+**lógica de programação e resolução de problemas utilizando Python**.
+
+🟡 **STATUS: EM TREINAMENTO**
+
+<a href="https://github.com/ViniciusBatistella17/treinos-python">
+  <img src="https://img.shields.io/badge/🔎%20VER%20EXERCÍCIOS-000000?style=for-the-badge">
+</a>
+
+</div>
 
 ---
 
@@ -103,6 +126,7 @@ Coleção de exercícios desenvolvidos para aprimorar minha **lógica de program
        🚀 NOVOS DESAFIOS
 ```
 
+---
 
 ## 🔥 SEQUÊNCIA DE TREINO
 
@@ -130,6 +154,14 @@ Coleção de exercícios desenvolvidos para aprimorar minha **lógica de program
 ---
 
 <div align="center">
+
+## VAMO SE CONECTAR!
+
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-batistella/">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
 
 Obrigado por visitar meu perfil!
 
