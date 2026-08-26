@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔴⚪ POKÉDEX #001 — VINICIUS
+<img src="./assets/greninja.gif" width="180">
 
-<img src="https://media.tenor.com/7Y8QZJf3QJAAAAAi/greninja-pokemon.gif" width="180">
+# 🔴⚪ POKÉDEX #001 — VINICIUS
 
 ### 👋 Olá, eu sou o Vinicius!
 
@@ -11,13 +11,15 @@
 🐍 **Python & Automação**
 🎓 **Sistemas da Informação**
 
-<a href="https://www.linkedin.com/in/vin%C3%ADcius-batistella/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
 </div>
 
 ---
+
+<div align="center">
+
+<img src="./assets/pokeball.gif" width="70">
+
+</div>
 
 ## 📖 ENTRADA DA POKÉDEX
 
@@ -81,7 +83,7 @@
 
 ### 🐟 PROJETO PEIXARIA
 
-Projeto desenvolvido para a peixaria do meu pai, colocando tecnologia e programação em prática para resolver uma necessidade real.
+Projeto desenvolvido para a **peixaria do meu pai**, colocando tecnologia e programação em prática para resolver uma necessidade real.
 
 🟢 **STATUS: CONCLUÍDO**
 
@@ -155,13 +157,15 @@ Coleção de exercícios desenvolvidos para aprimorar minha
 
 <div align="center">
 
-## VAMO SE CONECTAR!
+## LINKEDIN PARA CONEXÃO
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-batistella/">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
+
+<img src="./assets/final.gif" width="180">
 
 Obrigado por visitar meu perfil!
 
