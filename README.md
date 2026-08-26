@@ -2,7 +2,7 @@
 
 # 🔴⚪ POKÉDEX #001 — VINICIUS
 
-### 👋 Olá, eu sou o Vinicius!
+### Opa, eu sou o Vinicius!
 
 💻 **Analista de Suporte em TI**
 ☁️ **Cloud & Infraestrutura**
