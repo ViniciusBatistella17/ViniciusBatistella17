@@ -13,29 +13,29 @@
 
 ---
 
-## 📖 POKÉDEX ENTRY
+## 📖 ENTRADA DA POKÉDEX
 
-> **VINICIUS — Cloud Trainer**
+> **VINICIUS — Trainer de Tecnologia**
 >
 > Um Trainer de tecnologia especializado em suporte e infraestrutura, atualmente treinando suas habilidades em **Cloud Computing, Python e Inteligência Artificial**.
 >
-> Seu objetivo é evoluir de **IT Support** para **Cloud & Automation**, enfrentando novos desafios e transformando problemas em soluções.
+> Com objetivo em evoluir de **Suporte de TI** para **Cloud & Programação**, enfrentando novos desafios e transformando problemas em soluções.
 
 ---
 
-## 🎒 INVENTORY
+## 🎒 INVENTÁRIO
 
-| Skill         | Level      |
+| Habilidade    | Nível      |
 | ------------- | ---------- |
 | 🐍 Python     | ██████░░░░ |
 | 🌐 HTML/CSS   | ██████░░░░ |
 | 🐙 Git/GitHub | ██████░░░░ |
-| 🌐 Networking | █████░░░░░ |
+| 🌐 Redes      | █████░░░░░ |
 | 🗄️ SQL       | ██░░░░░░░░ |
 
 ---
 
-## 🏅 GYM BADGES
+## 🏅 INSÍGNIAS CONQUISTADAS
 
 🏆 **AWS Certified Cloud Practitioner**
 
@@ -43,51 +43,69 @@
 
 ---
 
-## 🎓 CURRENT TRAINING
+## 🎓 TREINAMENTO ATUAL
 
 ☁️ **Microsoft Azure AZ-900**
-`[ TRAINING ]`
+`[ EM PREPARAÇÃO ]`
 
 🤖 **AWS AI Practitioner**
-`[ TRAINING ]`
+`[ EM PREPARAÇÃO ]`
 
 🐧 **Linux**
-`[ TRAINING ]`
+`[ EM APRENDIZADO ]`
 
 🐍 **Python**
-`[ TRAINING ]`
+`[ EM APRENDIZADO ]`
 
 ---
 
-## 📚 TRAINING BADGES
+## 📚 CONQUISTAS DE TREINAMENTO
 
-📚 **AWS AI Practitioner — Course Completed**
+📚 **AWS AI Practitioner — Curso Concluído**
 
-📝 **Preparing for the AWS AI Practitioner Exam**
+📝 **Preparação para a certificação AWS AI Practitioner**
 
-☁️ **Microsoft Azure AZ-900 — Preparing**
+☁️ **Preparação para a certificação Microsoft Azure AZ-900**
 
 ---
 
-## ⚔️ BATTLES / PROJECTS
+## ⚔️ PROJETOS
 
 ### 🐟 Projeto Peixaria
 
-Projeto desenvolvido para a **peixaria do meu pai**, colocando em prática conhecimentos de desenvolvimento e tecnologia para resolver uma necessidade real.
+Projeto desenvolvido para a **peixaria do meu pai**, colocando em prática conhecimentos de tecnologia e programação para resolver uma necessidade real.
 
-**Status:** `ACTIVE DEVELOPMENT`
+**Status:** `EM DESENVOLVIMENTO`
 
 ---
 
 ### 🧠 Beecrowd — Python
 
-Coleção de exercícios desenvolvidos para melhorar minha **lógica de programação e resolução de problemas utilizando Python**.
+Coleção de exercícios desenvolvidos para aprimorar minha **lógica de programação e resolução de problemas utilizando Python**.
 
-**Status:** `TRAINING`
+**Status:** `EM TREINAMENTO`
 
 ---
 
-## 📊 TRAINER STATS
+## 🎯 PRÓXIMA EVOLUÇÃO
+
+```text
+              🧑‍💻
+           VINICIUS
+              │
+     ┌────────┼────────┐
+     ▼        ▼        ▼
+   🐍       ☁️       🤖
+ Python    Cloud      IA
+     │        │        │
+     └────────┼────────┘
+              ▼
+       🚀 NOVOS DESAFIOS
+```
+
+---
+
+## 📊 STATUS DO TRAINER
 
 <div align="center">
 
@@ -99,7 +117,7 @@ Coleção de exercícios desenvolvidos para melhorar minha **lógica de programa
 
 ---
 
-## 🔥 TRAINER STREAK
+## 🔥 SEQUÊNCIA DE TREINAMENTO
 
 <div align="center">
 
@@ -109,45 +127,25 @@ Coleção de exercícios desenvolvidos para melhorar minha **lógica de programa
 
 ---
 
-## 🎯 NEXT EVOLUTION
-
-```text
-        IT SUPPORT
-             │
-             ▼
-       ☁️ CLOUD
-             │
-             ▼
-      🐍 AUTOMATION
-             │
-             ▼
-          🤖 AI
-             │
-             ▼
-      🚀 CLOUD ENGINEER
-```
-
----
-
-## 💻 CURRENT QUEST
+## 🎒 MISSÕES ATUAIS
 
 ```text
 [✓] AWS Cloud Practitioner
-[✓] AWS AI Practitioner Course
+[✓] Curso AWS AI Practitioner
 [✓] Cisco Linux Basics
 
-[→] AWS AI Practitioner Certification
-[→] Azure AZ-900 Certification
-[→] Python Development
-[→] Cloud & Infrastructure
+[→] Certificação AWS AI Practitioner
+[→] Certificação Azure AZ-900
+[→] Evoluir em Python
+[→] Desenvolver novos projetos
 ```
 
 ---
 
 <div align="center">
 
-### 🎮 KEEP TRAINING. KEEP EVOLVING. 🚀
+### 🎮 CONTINUE TREINANDO. CONTINUE EVOLUINDO. 🚀
 
-⭐ Thanks for visiting my profile!
+⭐ Obrigado por visitar meu perfil!
 
 </div>
