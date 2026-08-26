@@ -4,7 +4,7 @@
 
 # 🔴⚪ POKÉDEX #001 — VINICIUS
 
-### 👋 Olá, eu sou o Vinicius!
+### Opa, eu sou o Vinicius!
 
 💻 **Analista de Suporte em TI**
 ☁️ **Cloud & Infraestrutura**
@@ -165,7 +165,7 @@ Coleção de exercícios desenvolvidos para aprimorar minha
 
 <br><br>
 
-<img src="./assets/final.gif" width="180">
+<img src="./assets/final.gif?v=2" width="180">
 
 Obrigado por visitar meu perfil!
 
