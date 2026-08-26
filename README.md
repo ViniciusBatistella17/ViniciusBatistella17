@@ -103,19 +103,8 @@ Coleção de exercícios desenvolvidos para aprimorar minha **lógica de program
        🚀 NOVOS DESAFIOS
 ```
 
----
 
-## 📊 STATUS DO TRAINER
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ViniciusBatistella17&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 SEQUÊNCIA DE TREINAMENTO
+## 🔥 SEQUÊNCIA DE TREINO
 
 <div align="center">
 
