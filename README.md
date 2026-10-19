@@ -47,14 +47,13 @@
 
 🏆 **AWS Certified Cloud Practitioner**
 
+🏆 **Microsoft Azure AZ-900**
+
 🐧 **Cisco — Linux Basics**
 
 ---
 
 ## 🎓 TREINAMENTO ATUAL
-
-☁️ **Microsoft Azure AZ-900**
-`[ EM PREPARAÇÃO ]`
 
 🤖 **AWS AI Practitioner**
 `[ EM PREPARAÇÃO ]`
@@ -73,7 +72,6 @@
 
 📝 **Preparação para a certificação AWS AI Practitioner**
 
-☁️ **Preparação para a certificação Microsoft Azure AZ-900**
 
 ---
 
