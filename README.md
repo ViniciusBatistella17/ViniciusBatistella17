@@ -144,9 +144,9 @@ Coleção de exercícios desenvolvidos para aprimorar minha
 [✓] AWS Cloud Practitioner
 [✓] Curso AWS AI Practitioner
 [✓] Cisco Linux Basics
+[✓] Certificação Azure AZ-900
 
 [→] Certificação AWS AI Practitioner
-[→] Certificação Azure AZ-900
 [→] Evoluir em Python
 [→] Desenvolver novos projetos
 ```
