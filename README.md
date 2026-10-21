@@ -8,6 +8,7 @@
 
 💻 **Analista de Suporte em TI**
 ☁️ **Cloud & Infraestrutura**
+⚙️ **Terraform & CI/CD**
 🐍 **Python & Automação**
 🎓 **Sistemas da Informação**
 
@@ -33,14 +34,17 @@
 
 ## 🎒 INVENTÁRIO
 
-| Habilidade    | Nível      |
-| ------------- | ---------- |
-| 🐍 Python     | ██████░░░░ |
-| 🌐 HTML/CSS   | ██████░░░░ |
+| Habilidade | Nível |
+|---|---|
+| ☁️ AWS | ██████░░░░ |
+| 🔷 Microsoft Azure | ██████░░░░ |
+| 🏗️ Terraform | ████░░░░░░ |
+| ⚙️ CI/CD — GitHub Actions e GitLab CI | █████░░░░░ |
+| 🐍 Python | ██████░░░░ |
 | 🐙 Git/GitHub | ██████░░░░ |
-| 🌐 Redes      | █████░░░░░ |
-| 🗄️ SQL       | ██░░░░░░░░ |
-
+| 🐧 Linux | ████░░░░░░ |
+| 🌐 Redes | █████░░░░░ |
+| 🗄️ SQL | ██░░░░░░░░ |
 ---
 
 ## 🏅 INSÍGNIAS CONQUISTADAS
@@ -142,13 +146,16 @@ Coleção de exercícios desenvolvidos para aprimorar minha
 
 ```text
 [✓] AWS Cloud Practitioner
+[✓] Microsoft Azure AZ-900
 [✓] Curso AWS AI Practitioner
 [✓] Cisco Linux Basics
-[✓] Certificação Azure AZ-900
+[✓] Pipeline CI/CD com GitLab
 
-[→] Certificação AWS AI Practitioner
+[→] Evoluir em Terraform
+[→] Aprofundar CI/CD e automação
+[→] Desenvolver projetos práticos em AWS e Azure
 [→] Evoluir em Python
-[→] Desenvolver novos projetos
+[→] Construir projetos de Cloud e DevOps
 ```
 
 ---
